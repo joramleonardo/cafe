@@ -1,10 +1,4 @@
-/*
 
-Tooplate 2121 Wave Cafe
-
-https://www.tooplate.com/view/2121-wave-cafe
-
-*/
 
 html { scroll-behavior: smooth; }
 
@@ -57,7 +51,10 @@ h2 { margin-top: 0; }
     padding: 10px;
 }
 
-.tm-container { padding: 30px; }
+.tm-container { 
+    padding: 30px; 
+    background-color: rgb(61, 13, 13) !important;
+}
 
 .tm-row {
     display: flex;
